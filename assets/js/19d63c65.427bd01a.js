@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqho_640_contemporary_web_application=self.webpackChunkqho_640_contemporary_web_application||[]).push([[7422],{2962:o=>{o.exports=JSON.parse('{"permalink":"/QHO640-Contemporary-Web-Application-Notes/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);

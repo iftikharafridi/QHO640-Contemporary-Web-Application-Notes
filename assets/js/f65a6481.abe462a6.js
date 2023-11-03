@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqho_640_contemporary_web_application=self.webpackChunkqho_640_contemporary_web_application||[]).push([[6997],{6288:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"QHO640_CWA_S1_2023"}')}}]);

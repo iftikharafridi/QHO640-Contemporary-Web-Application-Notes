@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkqho_640_contemporary_web_application=self.webpackChunkqho_640_contemporary_web_application||[]).push([[2811],{9776:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/QHO640-Contemporary-Web-Application-Notes/blog/tags/docusaurus","allTagsPath":"/QHO640-Contemporary-Web-Application-Notes/blog/tags","count":4}')}}]);
